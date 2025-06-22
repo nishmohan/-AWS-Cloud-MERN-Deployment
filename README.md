@@ -1,4 +1,4 @@
-# -AWS-Cloud-MERN-Deployment
+# AWS-Cloud-MERN-Deployment
 The Travel Memory application has been developed using the MERN stack
 Project Repository: https://github.com/UnpredictablePrashant/TravelMemory
 # Objective:
